@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-I like JavaScript.
+I like JavaScript. A lot.
